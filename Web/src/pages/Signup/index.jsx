@@ -46,9 +46,9 @@ export const Signup = () => {
               placeholder="Digite sua senha"              
             />
 
-            <button className="w-full text-center text-white bg-red-500 px-6 py-3 rounded-xl">
+            <a href='/dashboard' className="block w-full text-center text-white bg-red-500 px-6 py-3 rounded-xl">
               Criar minha conta          
-            </button> 
+            </a> 
 
           </form>
         </main>
